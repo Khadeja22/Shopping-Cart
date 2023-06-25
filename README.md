@@ -1,5 +1,5 @@
 # Shopping-Cart
-This project includes seven separate classes and subclasses that represent the categories for items in an average shopping cart.
+This project includes seven separate classes and subclasses that represent the categories for items in a basic shopping cart.
 
 The 'Shopping' class is the main class with the main method of the program, and it demonstrates the usage of the product classes and provides functionality to calculate the total cost of the shopping cart.
 
