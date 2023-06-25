@@ -11,5 +11,5 @@ The 'Product' class provides the user with a basic representation of a shopping 
 
 'Electronics' is also a subclass of 'Product' and it represents electronic items, adding additional attributes for the power type and battery inclusion. It provides methods to get and set these attributes.
 
-To use this program, download the 
+To use this program, download the ShoppingCart folder locally and open the files (which are the classes/subclasses) in src/com/products in your IDE of choice. I used Visual Studio Code.
 
